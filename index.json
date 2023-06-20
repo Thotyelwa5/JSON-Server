@@ -1,0 +1,24 @@
+{
+    "teammates": [
+        {"id" : "1",
+        "name": "Thotyelwa",
+        "age": 22
+    },
+        {"id" : "2",
+        "name": "Lutho",
+        "age": 20
+    },
+        {"id" : "3",
+        "name": "Owethu",
+        "age": 16
+    },
+        {"id" : "4",
+        "name": "Xolelwa",
+        "age": 27
+    },
+        {"id" : "5",
+        "name": "Lihle",
+        "age": 35
+    }
+    ]
+}
