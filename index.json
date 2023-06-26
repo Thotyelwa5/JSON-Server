@@ -1,5 +1,4 @@
-{
-    "teammates": [
+ [
         {"id" : "1",
         "name": "Thotyelwa",
         "age": 22
@@ -21,4 +20,3 @@
         "age": 35
     }
     ]
-}
